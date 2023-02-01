@@ -1,3 +1,8 @@
+This web page was based on a modified webpage template with the original info below.  I used Visual Studio Code on Windows to modify the HTML5 and css code.  
+
+Code was versioned and checked into GitHub using the bash shell version of Git to release updates from my local repository to GitHub.
+
+
 Read Only by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
